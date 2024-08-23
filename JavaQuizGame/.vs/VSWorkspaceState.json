@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\JavaQuizGame"
+    "\\JavaQuizGame",
+    "\\JavaQuizGame\\Data"
   ],
   "SelectedNode": "\\JavaQuizGame\\JavaQuizGame.csproj",
   "PreviewInSolutionExplorer": false
