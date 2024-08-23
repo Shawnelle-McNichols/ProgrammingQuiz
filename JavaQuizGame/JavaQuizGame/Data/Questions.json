@@ -1,0 +1,318 @@
+{
+    "Categories": {
+        "Programming": [
+            {
+                "Text": "1. Which of the following is NOT a primitive data type in Java?",
+                "Options": [ "int", "float", "boolean", "String" ],
+                "Answer": "String"
+            },
+            {
+                "Text": "2. What is the output of the following Python code? python : print(3 * '7')?",
+                "Options": [ "21", "777", "37", " Error" ],
+                "Answer": "777"
+            },
+            {
+                "Text": "3. Which of the following languages is primarily used for web development?",
+                "Options": [ "Java", "Python", "HTML", "C++" ],
+                "Answer": " HTML"
+            },
+            {
+                "Text": "4. In SQL, which command is used to retrieve data from a database?",
+                "Options": [ "SELECT", "INSERT", "UPDATE", "DELETE" ],
+                "Answer": "SELECT"
+            },
+            {
+                "Text": "5. Which of the following is true about a linked list?",
+                "Options": [ "It uses contiguous memory locations.", "It allows random access of elements.", "It is dynamic in size.", "It is implemented using arrays." ],
+                "Answer": "It is dynamic in size."
+            },
+            {
+                "Text": "6. What does the acronym OOP stand for in programming?",
+                "Options": [ "Object-Oriented Programming", "Output-Oriented Programming", "Open Operating Platform", "Order of Operations" ],
+                "Answer": "Object-Oriented Programming"
+            },
+            {
+                "Text": "7. Which of the following is not a looping structure in C++?",
+                "Options": [ "for", "while", "loop", "do-while" ],
+                "Answer": "loop"
+            },
+            {
+                "Text": "8. In JavaScript, which of the following is used to declare a variable?",
+                "Options": [ "var", "let", "const", "All of the above" ],
+                "Answer": "All of the above"
+            },
+            {
+                "Text": "9. Which of the following sorting algorithms has the best average-case time complexity?",
+                "Options": [ "Bubble Sort", "Selection Sort", "Merge Sort", "Insertion Sort" ],
+                "Answer": "Merge Sort"
+            },
+            {
+                "Text": "10. What is the purpose of a constructor in a class?",
+                "Options": [ "To define the data type of an object.", "To initialize the object when it is created.", "To create a new class.", "To destroy the object." ],
+                "Answer": "To initialize the object when it is created."
+            }
+        ],
+
+        "Web Development": [
+            {
+                "Text": "1. Which of the following is used to style a website?",
+                "Options": [ "HTML", "CSS", "JavaScript", "PHP" ],
+                "Answer": "CSS"
+            },
+            {
+                "Text": "2. Which HTML tag is used to create a hyperlink?",
+                "Options": [ "<a>", "<link>", "<href>", "<nav>" ],
+                "Answer": "<a>"
+            },
+            {
+                "Text": "3. Which of the following is a front-end framework?",
+                "Options": [ "Django", "Flask", "React", "Express" ],
+                "Answer": "React"
+            },
+            {
+                "Text": "4. Which of the following is a semantic HTML tag?",
+                "Options": [ "<div>", "<span>", "<section>", "<b>" ],
+                "Answer": "<section>"
+            },
+            {
+                "Text": "5. What does CSS stand for?",
+                "Options": [ "Cascading Style Sheets", "Computer Style Sheets", "Creative Style Sheets", "Colorful Style Sheets" ],
+                "Answer": "Cascading Style Sheets"
+            },
+            {
+                "Text": "6. Which property is used in CSS to change the background color?",
+                "Options": [ "bgcolor", "color", "background-color", "background" ],
+                "Answer": "background-color"
+            },
+            {
+                "Text": "7. In JavaScript, which method is used to add an event listener to an element?",
+                "Options": [ "attachEvent()", "addEventListener()", "onEvent()", "bindEvent()" ],
+                "Answer": "addEventListener()"
+            },
+            {
+                "Text": "8. Which of the following is used to create responsive layouts in CSS?",
+                "Options": [ "@media", "@responsive", "@screen", "@layout" ],
+                "Answer": "@media"
+            },
+            {
+                "Text": "9. What does the alt attribute in an <img> tag specify?",
+                "Options": [ "The image URL", "The image title", "Alternate text for the image", "The image size" ],
+                "Answer": "Alternate text for the image"
+            },
+            {
+                "Text": "10. Which of the following is NOT a JavaScript data type?",
+                "Options": [ "Number", "String", "Boolean", "Character" ],
+                "Answer": "Character"
+            }
+        ],
+        "Java": [
+            {
+                "Text": "1. Which of the following is NOT a Java feature?",
+                "Options": [ "Object-Oriented", "Platform-Independent", "Secure", "Pointer Arithmetic" ],
+                "Answer": "Pointer Arithmetic"
+            },
+            {
+                "Text": "2. What is the default value of an int variable in Java?",
+                "Options": [ "0", "null", "undefined", "1" ],
+                "Answer": "0"
+            },
+            {
+                "Text": "3. Which keyword is used to prevent a class from being subclassed in Java?",
+                "Options": [ "static", "final", "abstract", "private" ],
+                "Answer": "final"
+            },
+            {
+                "Text": "4. Which of the following is used to handle exceptions in Java?",
+                "Options": [ "try-catch", "try-catch-finally", "throw", "All of the above" ],
+                "Answer": "All of the above"
+            },
+            {
+                "Text": "5. Which method is used to start a thread in Java?",
+                "Options": [ "run()", "start()", "execute()", "init()" ],
+                "Answer": "start()"
+            },
+            {
+                "Text": "6. Which of the following is a reserved keyword in Java?",
+                "Options": [ "native", "goto", "unsigned", "main" ],
+                "Answer": "native"
+            },
+            {
+                "Text": "7. What is the output of the following Java code? Java: System.out.println(5 + 5 + '5');",
+                "Options": [ "15", "105", "555", "55" ],
+                "Answer": "105"
+            },
+            {
+                "Text": "8. Which of the following is a valid declaration of a float variable in Java?",
+                "Options": [ "float f = 3.14;", "float f = 3.14f;", "float f = '3.14';", "float f = 3.14d;" ],
+                "Answer": "float f = 3.14f;"
+            },
+            {
+                "Text": "9. Which access modifier in Java allows visibility only within the same package?",
+                "Options": [ "private", "protected", "public", "default (no modifier)" ],
+                "Answer": "default (no modifier)"
+            },
+            {
+                "Text": "10. Which of the following is true about a constructor in Java?",
+                "Options": [ "It has a return type.", "It cannot have parameters.", "It is automatically called when an object is created.", "It can be called explicitly like a normal method." ],
+                "Answer": "It is automatically called when an object is created."
+            }
+        ],
+        "C++": [
+            {
+                "Text": "1. Which of the following is a feature of C++ but not of C?",
+                "Options": [ "Pointers", "Object-Oriented Programming", "Preprocessor Directives", "Functions" ],
+                "Answer": "Object-Oriented Programming"
+            },
+            {
+                "Text": "2. Which operator is used to define the scope of a member function outside the class in C++?",
+                "Options": [ ".", "->", "::", ":" ],
+                "Answer": "::"
+            },
+            {
+                "Text": "3. Which of the following is true about constructors in C++?",
+                "Options": [ "Constructors can have a return type.", "Constructors cannot be overloaded.", "Constructors are called automatically when an object is created.", "Constructors are called explicitly like other functions." ],
+                "Answer": "Constructors are called automatically when an object is created."
+            },
+            {
+                "Text": "4. In C++, what is the purpose of the new operator?",
+                "Options": [ "To create a new variable", "To delete an existing object", "To dynamically allocate memory", "To initialize an array" ],
+                "Answer": "To dynamically allocate memory"
+            },
+            {
+                "Text": "5. Which of the following is NOT a type of inheritance in C++?",
+                "Options": [ "Single Inheritance", "Multiple Inheritance", "Hybrid Inheritance", "Multiple Polymorphism" ],
+                "Answer": "Multiple Polymorphism"
+            },
+            {
+                "Text": "6. Which of the following is used to dynamically allocate an array in C++?",
+                "Options": [ "malloc", "calloc", "new[]", "new" ],
+                "Answer": "new[]"
+            },
+            {
+                "Text": "7. What will be the output of the following C++ code: int a = 10; \n int b = 20; \n int c = a > b ? a : b;\nstd::cout << c;",
+                "Options": [ "10", "20", "30", "0" ],
+                "Answer": "20"
+            },
+            {
+                "Text": "8. Which of the following is NOT a C++ access specifier?",
+                "Options": [ "private", "protected", "public", "sealed" ],
+                "Answer": "sealed"
+            },
+            {
+                "Text": "9. What is the output of the following C++ code: \n int x = 5; \n int y = x++; \n std::cout << y;",
+                "Options": [ "5", "6", "4", "undefined" ],
+                "Answer": "5"
+            },
+            {
+                "Text": "10. Which of the following best describes a virtual function in C++?",
+                "Options": [ "A function that has no body", "A function defined in a base class that can be overridden in a derived class", "A function that can only be called within the class", "A function that cannot be overridden in a derived class" ],
+                "Answer": "A function defined in a base class that can be overridden in a derived class"
+            }
+        ],
+        "DSA": [
+            {
+                "Text": "1. Which data structure is used to implement recursion?",
+                "Options": [ "Array", "Queue", "Stack", "Linked List" ],
+                "Answer": "Stack"
+            },
+            {
+                "Text": "2. What is the time complexity of inserting an element at the beginning of a linked list?",
+                "Options": [ "O(1)", "O(n)", "O(log n)", "O(n^2)" ],
+                "Answer": "O(1)"
+            },
+            {
+                "Text": "3. Which of the following data structures allows insertion and deletion at both ends but not in the middle?",
+                "Options": [ "Queue", "Stack", "Deque", "Array" ],
+                "Answer": "Deque"
+            },
+            {
+                "Text": "4. Which of the following operations is performed more efficiently by a doubly linked list than by a singly linked list?",
+                "Options": [ "Inserting an element at the beginning", "Deleting an element from the end", "Searching for an element by value", "Traversing the list" ],
+                "Answer": "Deleting an element from the end"
+            },
+            {
+                "Text": "5. Which of the following is a self-balancing binary search tree?",
+                "Options": [ "Binary Search Tree (BST)", "Binary Search Tree (BST)", "AVL Tree", "Trie" ],
+                "Answer": "AVL Tree"
+            },
+            {
+                "Text": "6. In which data structure does insertion of elements happen at the rear and deletion happens at the front?",
+                "Options": [ "Stack", "Queue", "Deque", "Priority Queue" ],
+                "Answer": "Queue"
+            },
+            {
+                "Text": "7. Which of the following is true about a binary search tree (BST)?",
+                "Options": [ "The left subtree contains only nodes with values less than the parent node.", "The right subtree contains only nodes with values greater than the parent node.", "Both A and B are true.", "None of the above." ],
+                "Answer": "Both A and B are true."
+            },
+            {
+                "Text": "8. What is the best case time complexity of Quick Sort?",
+                "Options": [ "O(n^2)", "O(n log n)", "O(n)", "O(log n)" ],
+                "Answer": "O(n log n)"
+            },
+            {
+                "Text": "9. Which of the following data structures is used to implement a priority queue?",
+                "Options": [ "Array", "Linked List", "Heap", "Stack" ],
+                "Answer": "Heap"
+            },
+            {
+                "Text": "10. What type of data structure is a LIFO (Last In, First Out)?",
+                "Options": [ "Queue", "Stack", "Deque", "Tree" ],
+                "Answer": "Stack"
+            }
+        ],
+        "OOP": [
+            {
+                "Text": "1. Which of the following is not a principle of Object-Oriented Programming?",
+                "Options": [ "Encapsulation", "Abstraction", "Polymorphism", "Compilation" ],
+                "Answer": "Compilation"
+            },
+            {
+                "Text": "2. Which OOP concept allows a derived class to provide a specific implementation of a method that is already defined in its base class?",
+                "Options": [ "Encapsulation", "Inheritance", "Polymorphism", "Overriding" ],
+                "Answer": "Overriding"
+            },
+            {
+                "Text": "3. Which of the following best describes encapsulation in OOP?",
+                "Options": [ "Hiding the implementation details and showing only the functionality", "Defining multiple methods with the same name but different signatures", "Creating a new class from an existing class", "Converting one data type into another" ],
+                "Answer": "Hiding the implementation details and showing only the functionality"
+            },
+            {
+                "Text": "4. In OOP, which keyword is used in Java to inherit a class?",
+                "Options": [ "extends", "implements", "inherits", "super" ],
+                "Answer": "extends"
+            },
+            {
+                "Text": "5. What does the concept of polymorphism refer to in OOP?",
+                "Options": [ "The ability to create a new class from an existing class", "The ability of a function or method to work in more than one way", "The ability to hide internal details and show only functionalities", "The ability to define multiple methods with the same name in the same class" ],
+                "Answer": "The ability of a function or method to work in more than one way"
+            },
+            {
+                "Text": "6. Which of the following is true about constructors in OOP?",
+                "Options": [ "Constructors have a return type.", "Constructors cannot be overloaded.", "Constructors are called automatically when an object is created.", "Constructors can be called explicitly like other methods." ],
+                "Answer": "Constructors are called automatically when an object is created."
+            },
+            {
+                "Text": "7. Which OOP concept allows one class to acquire the properties and behaviors of another class?",
+                "Options": [ "Encapsulation", "Abstraction", "Inheritance", "Polymorphism" ],
+                "Answer": "Inheritance"
+            },
+            {
+                "Text": "8. Which OOP concept is illustrated by the ability of different classes to define methods that share the same name but have different implementations?",
+                "Options": [ "Encapsulation", "Polymorphism", "Inheritance", "Abstraction" ],
+                "Answer": "Polymorphism"
+            },
+            {
+                "Text": "9. In OOP, what is the term for the process of hiding the internal implementation details of an object?",
+                "Options": [ "Inheritance", "Encapsulation", "Polymorphism", "Abstraction" ],
+                "Answer": "Encapsulation"
+            },
+            {
+                "Text": "10. Which of the following is a feature of abstract classes in OOP?",
+                "Options": [ "Abstract classes can be instantiated.", "Abstract classes cannot have constructors.", "Abstract classes can contain both abstract methods and concrete methods", "Abstract classes must be declared as final." ],
+                "Answer": "Abstract classes can contain both abstract methods and concrete methods"
+            }
+        ]
+    }
+    
+}
